@@ -19,7 +19,7 @@
 
 ## 使用方式
 ```shell
-git clone git@github.com:zhangwenxiao/swings.git
+git clone https://github.com/govk/cppwebserver.git
 cd code
 make
 sh run.sh
